@@ -1,12 +1,12 @@
 {
-    "name": "my-scaffold",
+    "name": "@preach/my-scaffold",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
         "webpack": "node_modules/.bin/webpack"
     },
-    "author": "",
+    "author": "CheMingjun",
     "license": "ISC",
     "dependencies": {
         "@babel/core": "^7.1.0",
