@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import Page from './page.vue'
+import Page from './Page.vue'
 
 new Vue({
     el: '#app',
